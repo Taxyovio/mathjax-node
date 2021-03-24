@@ -1,0 +1,1 @@
+This is a simple node.js project created in the iOS app [play.js](https://apps.apple.com/gb/app/play-js-javascript-ide/id1423330822). It uses mathjax-node to render LaTeX formula into svg.
