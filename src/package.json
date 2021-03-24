@@ -1,0 +1,11 @@
+{
+  "name": "mathjax-svg",
+  "version": "1.0.0",
+  "dependencies": {
+    "is-fullwidth-code-point": "^2.0.0",
+    "jsdom": "^11.0.0",
+    "lodash": "^4.17.20",
+    "mathjax": "^2.7.2",
+    "mathjax-node": "~2"
+  }
+}
